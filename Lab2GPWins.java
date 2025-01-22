@@ -34,6 +34,7 @@ public class Lab2GPWins{
         //System.out.println("driver to search: " + driverName);
 
         // get the index of the driver search key
+        driverIndex = -1;
         driverIndex = getDriverIndex(drivers, driverName);
         //System.out.println(driverIndex);
 
